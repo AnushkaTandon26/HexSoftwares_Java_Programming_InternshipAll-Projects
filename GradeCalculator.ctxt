@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GradeCalculator
+comment1.params=
+comment1.target=GradeCalculator()
+comment2.params=name\ studentID
+comment2.target=void\ addStudent(java.lang.String,\ java.lang.String)
+comment3.params=studentID\ grade
+comment3.target=void\ addGradeToStudent(java.lang.String,\ double)
+comment4.params=studentID
+comment4.target=void\ displayStudentGrades(java.lang.String)
+comment5.params=studentID
+comment5.target=void\ displayStudentAverage(java.lang.String)
+comment6.params=
+comment6.target=void\ calculateClassAverage()
+comment7.params=studentID
+comment7.target=Student\ findStudent(java.lang.String)
+numComments=8

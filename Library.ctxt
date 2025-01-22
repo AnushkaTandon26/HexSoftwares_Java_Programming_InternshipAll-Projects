@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Library
+comment1.params=
+comment1.target=Library()
+comment2.params=title\ author
+comment2.target=void\ addBook(java.lang.String,\ java.lang.String)
+comment3.params=name\ memberId
+comment3.target=void\ addMember(java.lang.String,\ java.lang.String)
+comment4.params=title\ memberId
+comment4.target=void\ issueBook(java.lang.String,\ java.lang.String)
+comment5.params=title
+comment5.target=void\ returnBook(java.lang.String)
+comment6.params=
+comment6.target=void\ listBooks()
+comment7.params=title
+comment7.target=Book\ findBook(java.lang.String)
+comment8.params=memberId
+comment8.target=Member\ findMember(java.lang.String)
+numComments=9
